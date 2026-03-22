@@ -1,5 +1,10 @@
 # PageIndex Codebase Analysis Report
 
+- **Source Repository**: https://github.com/VectifyAI/PageIndex
+- **Analyzed Commit**: `2403be8` (Integrate LiteLLM for multi-provider LLM support)
+- **Initial Document Date**: 2026-03-22
+- **Last Updated**: 2026-03-22
+
 ---
 
 ## 1. Architecture Overview
